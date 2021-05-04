@@ -1,3 +1,6 @@
 One of the main functions of an Operating System is file management. The OS creates a file system to effecively organize and store the files and directories. 
 This also helps programs by giving them a place to store files and data. Naming, sorting, deleting, moving and copying are some of the actions that the OS needs to  
 permform to organize these files. 
+
+The next function of the Operating System is to manage hardware and peripherals. It needs to control all the devices that are connected to the computer in order to 
+communicate to them and tell them how to operate. The drivers that you install for your computer help manage these connections with the hardware and peripherals. 
