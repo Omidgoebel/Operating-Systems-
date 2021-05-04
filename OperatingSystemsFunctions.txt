@@ -1,0 +1,3 @@
+One of the main functions of an Operating System is file management. The OS creates a file system to effecively organize and store the files and directories. 
+This also helps programs by giving them a place to store files and data. Naming, sorting, deleting, moving and copying are some of the actions that the OS needs to  
+permform to organize these files. 
